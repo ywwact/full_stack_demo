@@ -1,0 +1,8 @@
+{
+  "name": "full_stack_demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:ywwact/full_stack_demo.git",
+  "author": "ywwact",
+  "license": "MIT"
+}
